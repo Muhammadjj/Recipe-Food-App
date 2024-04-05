@@ -6,6 +6,8 @@ By clicking on these categories, we have different types of menus open, on which
 **Favorite Button**
 _When we click on our menus, we have a detail that opens, on the top of the bar I have placed a favorite icon, by clicking on which we can favorite each of our products and view them later. In this recipe food app, I have created two tap bars, one is for favorites, by going to it, we can see our products, which products we currently have as favourites._
 **Custom Drawer**
+  _Open the drawer we have two types of email and categories that our end user can now select within the mails and a filter filter.
+  That user can select Vegetarian or Meals anything and get recipes etc. of the same type._
 
 
 
