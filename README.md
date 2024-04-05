@@ -1,4 +1,13 @@
-# meal_app
+# Recipes Food App
+
+## Recipes Details
+_I have created mailfood app in which I have put different types of categories for example Telin, Summer, German and such different types of categories which I am implementing.
+By clicking on these categories, we have different types of menus open, on which we have mentioned the image time and our date, etc., on clicking them, then we have the details open, in which all the steps are from it. The steps to make this product and how much time it will take to make it are all mentionedIs_
+**Favorite Button**
+_When we click on our menus, we have a detail that opens, on the top of the bar I have placed a favorite icon, by clicking on which we can favorite each of our products and view them later. In this recipe food app, I have created two tap bars, one is for favorites, by going to it, we can see our products, which products we currently have as favourites._
+**Custom Drawer**
+
+
 
 A new Flutter project.
 
